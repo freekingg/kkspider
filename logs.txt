@@ -1,0 +1,419 @@
+2021/7/19 下午7:41:33: 代码开始运行...
+2021/7/19 下午7:41:39: []
+2021/7/20 上午10:10:01: browser init
+2021/7/20 上午10:10:02: open new page
+2021/7/20 上午10:10:02: go to http://hf.rent.house365.com/district/dl_p1.html
+2021/7/20 上午10:10:22: 
+2021/7/20 上午10:10:22: go to http://hf.rent.house365.com/district/dl_p2.html
+2021/7/20 上午10:10:52: TimeoutError: Navigation timeout of 30000 ms exceeded
+2021/7/20 上午10:10:52: go to http://hf.rent.house365.com/district/dl_p3.html
+2021/7/20 上午10:10:52: 
+2021/7/20 上午10:10:58: 
+2021/7/20 上午10:10:58: 测试采集, 最多采集五个
+2021/7/20 上午10:10:58: 结束, 关闭浏览器
+2021/7/20 上午10:11:39: browser init
+2021/7/20 上午10:11:39: open new page
+2021/7/20 上午10:12:09: 采集报错: TimeoutError: Navigation timeout of 30000 ms exceeded
+2021/7/20 上午10:12:09: 结束, 关闭浏览器
+2021/7/20 上午10:12:25: 结束, 关闭浏览器
+2021/7/20 上午10:12:26: browser init
+2021/7/20 上午10:12:26: open new page
+2021/7/20 上午10:12:41: go to http://hf.rent.house365.com/district/dl_p1.html
+2021/7/20 上午10:12:42: 结束, 关闭浏览器
+2021/7/20 上午10:12:42: 采集报错: Error: Evaluation failed: TypeError: Cannot read property 'innerHTML' of null
+    at __puppeteer_evaluation_script__:7:68
+    at Array.forEach (<anonymous>)
+    at __puppeteer_evaluation_script__:3:41
+2021/7/20 上午10:12:47: 结束, 关闭浏览器
+2021/7/20 上午10:12:49: browser init
+2021/7/20 上午10:12:49: open new page
+2021/7/20 上午10:13:00: go to http://hf.rent.house365.com/district/dl_p1.html
+2021/7/20 上午10:13:00: 采集报错: Error: Evaluation failed: TypeError: Cannot read property 'innerHTML' of null
+    at __puppeteer_evaluation_script__:7:68
+    at Array.forEach (<anonymous>)
+    at __puppeteer_evaluation_script__:3:41
+2021/7/20 上午10:13:00: 结束, 关闭浏览器
+2021/7/20 上午10:13:09: 结束, 关闭浏览器
+2021/7/20 上午10:13:11: browser init
+2021/7/20 上午10:13:11: open new page
+2021/7/20 上午10:13:16: go to http://hf.rent.house365.com/district/dl_p1.html
+2021/7/20 上午10:13:16: 采集报错: Error: Evaluation failed: TypeError: Cannot read property 'innerHTML' of null
+    at __puppeteer_evaluation_script__:7:68
+    at Array.forEach (<anonymous>)
+    at __puppeteer_evaluation_script__:3:41
+2021/7/20 上午10:13:16: 结束, 关闭浏览器
+2021/7/20 上午10:14:12: 代码开始运行...
+2021/7/20 上午10:14:18: 百度首页设置登录
+请按“回车”键发起检索
+网页资讯视频图片知道文库贴吧地图采购更多
+2021/7/20 上午10:14:33: 代码开始运行...
+2021/7/20 上午10:14:37: 百度首页设置登录
+请按“回车”键发起检索
+网页资讯视频图片知道文库贴吧地图采购更多
+2021/7/20 上午10:14:45: 代码开始运行...
+2021/7/20 上午10:14:51: 百度首页设置登录
+请按“回车”键发起检索
+网页资讯视频图片知道文库贴吧地图采购更多
+2021/7/20 上午10:14:54: 代码开始运行...
+2021/7/20 上午10:15:14: 代码开始运行...
+2021/7/20 上午10:15:19: 百度首页设置登录
+请按“回车”键发起检索
+网页资讯视频图片知道文库贴吧地图采购更多
+2021/7/20 上午10:16:58: 百度首页设置登录
+请按“回车”键发起检索
+网页资讯视频图片知道文库贴吧地图采购更多
+2021/7/20 上午10:40:22: browser init
+2021/7/20 上午10:40:22: go to https://colorlib.com/wp/templates/page/1/
+2021/7/20 上午10:40:22: open new page
+2021/7/20 上午10:40:25: https://colorlib.com/wp/template/work/
+https://colorlib.com/wp/template/consultingbiz/
+https://colorlib.com/wp/template/explore/
+https://colorlib.com/wp/template/onlineedu/
+https://colorlib.com/wp/template/delicious/
+https://colorlib.com/wp/template/auction/
+https://colorlib.com/wp/template/academics/
+https://colorlib.com/wp/template/autorepair/
+https://colorlib.com/wp/template/readit/
+https://colorlib.com/wp/template/repair/
+https://colorlib.com/wp/template/cleaning-company/
+https://colorlib.com/wp/template/uptown/
+https://colorlib.com/wp/template/portfolio-2/
+https://colorlib.com/wp/template/webmag/
+https://colorlib.com/wp/template/egames/
+https://colorlib.com/wp/template/magdesign/
+https://colorlib.com/wp/template/fitnezz/
+https://colorlib.com/wp/template/lawncare/
+https://colorlib.com/wp/template/hnband/
+https://colorlib.com/wp/template/tangre/
+https://colorlib.com/wp/template/foundation2/
+https://colorlib.com/wp/template/glint/
+https://colorlib.com/wp/template/wedding2/
+https://colorlib.com/wp/template/ocheandeview/
+https://colorlib.com/wp/template/dental/
+https://colorlib.com/wp/template/mediplus/
+https://colorlib.com/wp/template/consul/
+https://colorlib.com/wp/template/slim2/
+https://colorlib.com/wp/template/easylo/
+https://colorlib.com/wp/template/homofy/
+https://colorlib.com/wp/template/joblab/
+https://colorlib.com/wp/template/suites/
+https://colorlib.com/wp/template/musiclab/
+https://colorlib.com/wp/template/universityedu/
+https://colorlib.com/wp/template/eventotemplate/
+https://colorlib.com/wp/template/montana/
+https://colorlib.com/wp/template/belara/
+https://colorlib.com/wp/template/buckkinnear/
+https://colorlib.com/wp/template/cakeshop/
+https://colorlib.com/wp/template/cleaningservice/
+https://colorlib.com/wp/template/coza-store/
+https://colorlib.com/wp/template/charitee/
+https://colorlib.com/wp/template/ogani/
+https://colorlib.com/wp/template/congoro/
+https://colorlib.com/wp/template/consultation/
+https://colorlib.com/wp/template/estore/
+https://colorlib.com/wp/template/favison/
+https://colorlib.com/wp/template/decoffee/
+https://colorlib.com/wp/template/ecogreen/
+https://colorlib.com/wp/template/furnish/
+https://colorlib.com/wp/template/itlock/
+https://colorlib.com/wp/template/jackco/
+https://colorlib.com/wp/template/josanclick/
+https://colorlib.com/wp/template/kayelux/
+2021/7/20 上午10:40:25: go to https://colorlib.com/wp/templates/page/2/
+2021/7/20 上午10:40:28: https://colorlib.com/wp/template/lovecare/
+https://colorlib.com/wp/template/megasis/
+https://colorlib.com/wp/template/miniblog/
+https://colorlib.com/wp/template/narosundar/
+https://colorlib.com/wp/template/hami/
+https://colorlib.com/wp/template/saita/
+https://colorlib.com/wp/template/olla/
+https://colorlib.com/wp/template/stodeo/
+https://colorlib.com/wp/template/thelogistico/
+https://colorlib.com/wp/template/alazea/
+https://colorlib.com/wp/template/unioncorp/
+https://colorlib.com/wp/template/mellisa/
+https://colorlib.com/wp/template/pexman/
+https://colorlib.com/wp/template/pestcontrol/
+https://colorlib.com/wp/template/thestartup/
+https://colorlib.com/wp/template/portech/
+https://colorlib.com/wp/template/rolast/
+https://colorlib.com/wp/template/sharespace/
+https://colorlib.com/wp/template/thebasketball/
+https://colorlib.com/wp/template/coffee/
+https://colorlib.com/wp/template/appy/
+https://colorlib.com/wp/template/book-keeping/
+https://colorlib.com/wp/template/tralive/
+https://colorlib.com/wp/template/woodwork/
+https://colorlib.com/wp/template/yogabest/
+https://colorlib.com/wp/template/thepetcare/
+https://colorlib.com/wp/template/moose/
+https://colorlib.com/wp/template/monarch/
+https://colorlib.com/wp/template/makeupartist/
+https://colorlib.com/wp/template/magaznpro/
+https://colorlib.com/wp/template/locksmith/
+https://colorlib.com/wp/template/imagine/
+https://colorlib.com/wp/template/listio/
+https://colorlib.com/wp/template/kindergarten/
+https://colorlib.com/wp/template/jobsco/
+https://colorlib.com/wp/template/itkol/
+https://colorlib.com/wp/template/interd/
+https://colorlib.com/wp/template/accounting/
+https://colorlib.com/wp/template/hvacompany/
+https://colorlib.com/wp/template/hardenero/
+https://colorlib.com/wp/template/hairsalone/
+https://colorlib.com/wp/template/freightbroker/
+https://colorlib.com/wp/template/travelix/
+https://colorlib.com/wp/template/florist/
+https://colorlib.com/wp/template/world/
+https://colorlib.com/wp/template/finlone/
+https://colorlib.com/wp/template/knuford/
+https://colorlib.com/wp/template/farmland/
+https://colorlib.com/wp/template/expo/
+https://colorlib.com/wp/template/medicare/
+https://colorlib.com/wp/template/sierra/
+https://colorlib.com/wp/template/eventro/
+https://colorlib.com/wp/template/eroo/
+https://colorlib.com/wp/template/academia/
+2021/7/20 上午10:40:28: go to https://colorlib.com/wp/templates/page/3/
+2021/7/20 上午10:40:30: https://colorlib.com/wp/template/ecoho/
+https://colorlib.com/wp/template/medica/
+https://colorlib.com/wp/template/startup-2/
+https://colorlib.com/wp/template/aesthetic/
+https://colorlib.com/wp/template/dentamax/
+https://colorlib.com/wp/template/convention/
+https://colorlib.com/wp/template/unbrew/
+https://colorlib.com/wp/template/consto/
+https://colorlib.com/wp/template/cleanex/
+https://colorlib.com/wp/template/esportsteam/
+https://colorlib.com/wp/template/lorahost/
+https://colorlib.com/wp/template/calvin/
+https://colorlib.com/wp/template/car-rental/
+https://colorlib.com/wp/template/cakes/
+https://colorlib.com/wp/template/barbero/
+https://colorlib.com/wp/template/sportsteam/
+https://colorlib.com/wp/template/atorni/
+https://colorlib.com/wp/template/axole/
+https://colorlib.com/wp/template/buildream/
+https://colorlib.com/wp/template/calvino/
+https://colorlib.com/wp/template/capitalshop/
+https://colorlib.com/wp/template/cleaning/
+https://colorlib.com/wp/template/flyplane/
+https://colorlib.com/wp/template/franclin/
+https://colorlib.com/wp/template/fox/
+https://colorlib.com/wp/template/drpro/
+https://colorlib.com/wp/template/gricklo/
+https://colorlib.com/wp/template/healthvest/
+https://colorlib.com/wp/template/konato/
+https://colorlib.com/wp/template/lawyerlegal/
+https://colorlib.com/wp/template/lendo/
+https://colorlib.com/wp/template/onedu/
+https://colorlib.com/wp/template/rolax/
+https://colorlib.com/wp/template/schmidt/
+https://colorlib.com/wp/template/dentacare/
+https://colorlib.com/wp/template/toothcare/
+https://colorlib.com/wp/template/unwind/
+https://colorlib.com/wp/template/gardening/
+https://colorlib.com/wp/template/carepair/
+https://colorlib.com/wp/template/victor/
+https://colorlib.com/wp/template/restauco/
+https://colorlib.com/wp/template/oraxol/
+https://colorlib.com/wp/template/skater/
+https://colorlib.com/wp/template/oakberry/
+https://colorlib.com/wp/template/logistic/
+https://colorlib.com/wp/template/directone/
+https://colorlib.com/wp/template/dazko/
+https://colorlib.com/wp/template/chariter/
+https://colorlib.com/wp/template/abcbook/
+https://colorlib.com/wp/template/action/
+https://colorlib.com/wp/template/fective/
+https://colorlib.com/wp/template/financier/
+https://colorlib.com/wp/template/framework/
+https://colorlib.com/wp/template/hotell/
+2021/7/20 上午10:40:30: 结束, 关闭浏览器
+2021/7/20 上午10:40:30: 测试采集, 最多采集五个
+2021/7/20 上午10:43:27: browser init
+2021/7/20 上午10:43:27: open new page
+2021/7/20 上午10:43:31: go to https://colorlib.com/wp/template/work/
+2021/7/20 上午10:43:31: 采集报错: Error: Evaluation failed: TypeError: Cannot read property 'innerHTML' of null
+    at __puppeteer_evaluation_script__:7:68
+    at Array.forEach (<anonymous>)
+    at __puppeteer_evaluation_script__:3:41
+2021/7/20 上午10:43:31: 结束, 关闭浏览器
+2021/7/20 上午10:44:38: 结束, 关闭浏览器
+2021/7/20 上午10:46:20: browser init
+2021/7/20 上午10:46:20: open new page
+2021/7/20 上午10:46:20: go to https://colorlib.com/wp/templates/page/1/
+2021/7/20 上午10:46:23: https://colorlib.com/wp/template/work/
+https://colorlib.com/wp/template/consultingbiz/
+https://colorlib.com/wp/template/explore/
+https://colorlib.com/wp/template/onlineedu/
+https://colorlib.com/wp/template/delicious/
+https://colorlib.com/wp/template/auction/
+https://colorlib.com/wp/template/academics/
+https://colorlib.com/wp/template/autorepair/
+https://colorlib.com/wp/template/readit/
+https://colorlib.com/wp/template/repair/
+https://colorlib.com/wp/template/cleaning-company/
+https://colorlib.com/wp/template/uptown/
+https://colorlib.com/wp/template/portfolio-2/
+https://colorlib.com/wp/template/webmag/
+https://colorlib.com/wp/template/egames/
+https://colorlib.com/wp/template/magdesign/
+https://colorlib.com/wp/template/fitnezz/
+https://colorlib.com/wp/template/lawncare/
+https://colorlib.com/wp/template/hnband/
+https://colorlib.com/wp/template/tangre/
+https://colorlib.com/wp/template/foundation2/
+https://colorlib.com/wp/template/glint/
+https://colorlib.com/wp/template/wedding2/
+https://colorlib.com/wp/template/ocheandeview/
+https://colorlib.com/wp/template/dental/
+https://colorlib.com/wp/template/mediplus/
+https://colorlib.com/wp/template/consul/
+https://colorlib.com/wp/template/slim2/
+https://colorlib.com/wp/template/easylo/
+https://colorlib.com/wp/template/homofy/
+https://colorlib.com/wp/template/joblab/
+https://colorlib.com/wp/template/suites/
+https://colorlib.com/wp/template/musiclab/
+https://colorlib.com/wp/template/universityedu/
+https://colorlib.com/wp/template/eventotemplate/
+https://colorlib.com/wp/template/montana/
+https://colorlib.com/wp/template/belara/
+https://colorlib.com/wp/template/buckkinnear/
+https://colorlib.com/wp/template/cakeshop/
+https://colorlib.com/wp/template/cleaningservice/
+https://colorlib.com/wp/template/coza-store/
+https://colorlib.com/wp/template/charitee/
+https://colorlib.com/wp/template/ogani/
+https://colorlib.com/wp/template/congoro/
+https://colorlib.com/wp/template/consultation/
+https://colorlib.com/wp/template/estore/
+https://colorlib.com/wp/template/favison/
+https://colorlib.com/wp/template/decoffee/
+https://colorlib.com/wp/template/ecogreen/
+https://colorlib.com/wp/template/furnish/
+https://colorlib.com/wp/template/itlock/
+https://colorlib.com/wp/template/jackco/
+https://colorlib.com/wp/template/josanclick/
+https://colorlib.com/wp/template/kayelux/
+2021/7/20 上午10:46:23: go to https://colorlib.com/wp/templates/page/2/
+2021/7/20 上午10:46:25: https://colorlib.com/wp/template/lovecare/
+https://colorlib.com/wp/template/megasis/
+https://colorlib.com/wp/template/miniblog/
+https://colorlib.com/wp/template/narosundar/
+https://colorlib.com/wp/template/hami/
+https://colorlib.com/wp/template/saita/
+https://colorlib.com/wp/template/olla/
+https://colorlib.com/wp/template/stodeo/
+https://colorlib.com/wp/template/thelogistico/
+https://colorlib.com/wp/template/alazea/
+https://colorlib.com/wp/template/unioncorp/
+https://colorlib.com/wp/template/mellisa/
+https://colorlib.com/wp/template/pexman/
+https://colorlib.com/wp/template/pestcontrol/
+https://colorlib.com/wp/template/thestartup/
+https://colorlib.com/wp/template/portech/
+https://colorlib.com/wp/template/rolast/
+https://colorlib.com/wp/template/sharespace/
+https://colorlib.com/wp/template/thebasketball/
+https://colorlib.com/wp/template/coffee/
+https://colorlib.com/wp/template/appy/
+https://colorlib.com/wp/template/book-keeping/
+https://colorlib.com/wp/template/tralive/
+https://colorlib.com/wp/template/woodwork/
+https://colorlib.com/wp/template/yogabest/
+https://colorlib.com/wp/template/thepetcare/
+https://colorlib.com/wp/template/moose/
+https://colorlib.com/wp/template/monarch/
+https://colorlib.com/wp/template/makeupartist/
+https://colorlib.com/wp/template/magaznpro/
+https://colorlib.com/wp/template/locksmith/
+https://colorlib.com/wp/template/imagine/
+https://colorlib.com/wp/template/listio/
+https://colorlib.com/wp/template/kindergarten/
+https://colorlib.com/wp/template/jobsco/
+https://colorlib.com/wp/template/itkol/
+https://colorlib.com/wp/template/interd/
+https://colorlib.com/wp/template/accounting/
+https://colorlib.com/wp/template/hvacompany/
+https://colorlib.com/wp/template/hardenero/
+https://colorlib.com/wp/template/hairsalone/
+https://colorlib.com/wp/template/freightbroker/
+https://colorlib.com/wp/template/travelix/
+https://colorlib.com/wp/template/florist/
+https://colorlib.com/wp/template/world/
+https://colorlib.com/wp/template/finlone/
+https://colorlib.com/wp/template/knuford/
+https://colorlib.com/wp/template/farmland/
+https://colorlib.com/wp/template/expo/
+https://colorlib.com/wp/template/medicare/
+https://colorlib.com/wp/template/sierra/
+https://colorlib.com/wp/template/eventro/
+https://colorlib.com/wp/template/eroo/
+https://colorlib.com/wp/template/academia/
+2021/7/20 上午10:46:25: go to https://colorlib.com/wp/templates/page/3/
+2021/7/20 上午10:46:26: https://colorlib.com/wp/template/ecoho/
+https://colorlib.com/wp/template/medica/
+https://colorlib.com/wp/template/startup-2/
+https://colorlib.com/wp/template/aesthetic/
+https://colorlib.com/wp/template/dentamax/
+https://colorlib.com/wp/template/convention/
+https://colorlib.com/wp/template/unbrew/
+https://colorlib.com/wp/template/consto/
+https://colorlib.com/wp/template/cleanex/
+https://colorlib.com/wp/template/esportsteam/
+https://colorlib.com/wp/template/lorahost/
+https://colorlib.com/wp/template/calvin/
+https://colorlib.com/wp/template/car-rental/
+https://colorlib.com/wp/template/cakes/
+https://colorlib.com/wp/template/barbero/
+https://colorlib.com/wp/template/sportsteam/
+https://colorlib.com/wp/template/atorni/
+https://colorlib.com/wp/template/axole/
+https://colorlib.com/wp/template/buildream/
+https://colorlib.com/wp/template/calvino/
+https://colorlib.com/wp/template/capitalshop/
+https://colorlib.com/wp/template/cleaning/
+https://colorlib.com/wp/template/flyplane/
+https://colorlib.com/wp/template/franclin/
+https://colorlib.com/wp/template/fox/
+https://colorlib.com/wp/template/drpro/
+https://colorlib.com/wp/template/gricklo/
+https://colorlib.com/wp/template/healthvest/
+https://colorlib.com/wp/template/konato/
+https://colorlib.com/wp/template/lawyerlegal/
+https://colorlib.com/wp/template/lendo/
+https://colorlib.com/wp/template/onedu/
+https://colorlib.com/wp/template/rolax/
+https://colorlib.com/wp/template/schmidt/
+https://colorlib.com/wp/template/dentacare/
+https://colorlib.com/wp/template/toothcare/
+https://colorlib.com/wp/template/unwind/
+https://colorlib.com/wp/template/gardening/
+https://colorlib.com/wp/template/carepair/
+https://colorlib.com/wp/template/victor/
+https://colorlib.com/wp/template/restauco/
+https://colorlib.com/wp/template/oraxol/
+https://colorlib.com/wp/template/skater/
+https://colorlib.com/wp/template/oakberry/
+https://colorlib.com/wp/template/logistic/
+https://colorlib.com/wp/template/directone/
+https://colorlib.com/wp/template/dazko/
+https://colorlib.com/wp/template/chariter/
+https://colorlib.com/wp/template/abcbook/
+https://colorlib.com/wp/template/action/
+https://colorlib.com/wp/template/fective/
+https://colorlib.com/wp/template/financier/
+https://colorlib.com/wp/template/framework/
+https://colorlib.com/wp/template/hotell/
+2021/7/20 上午10:46:27: 测试采集, 最多采集五个
+2021/7/20 上午10:46:27: 结束, 关闭浏览器
+2021/7/20 上午10:47:06: browser init
+2021/7/20 上午10:47:06: open new page
+2021/7/20 上午10:47:09: go to https://colorlib.com/wp/template/work/
+2021/7/20 上午10:47:09: 采集报错: Error: Evaluation failed: TypeError: Cannot read property 'innerHTML' of null
+    at __puppeteer_evaluation_script__:7:68
+    at Array.forEach (<anonymous>)
+    at __puppeteer_evaluation_script__:3:41
+2021/7/20 上午10:47:09: 结束, 关闭浏览器
